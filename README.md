@@ -1,2 +1,2 @@
 # Reverse-a-number
-Java
+C language
